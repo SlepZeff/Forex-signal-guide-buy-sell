@@ -5,6 +5,7 @@
       "backup": "unity",
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
+      "privacy" : "https://github.com/",
       
       "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -29,8 +30,8 @@
    "More": [
     {
       "id": 1,
-      "title": "",
-      "image": "",
+      "title": "rating",
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-signal-guide-buy-sell/main/icon.png",
       "link": ""
     }
   ],
@@ -38,27 +39,84 @@
     {
       "id": 1,
       "name_category": "Crpto",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-signal-guide-buy-sell/main/icon.png"
     },
     {
       "id": 2,
       "name_category": "Tips",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-signal-guide-buy-sell/main/icon.png"
     },
     {
       "id": 3,
       "name_category": "Signal Buy",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      "image": "https://raw.githubusercontent.com/SlepZeff/Forex-signal-guide-buy-sell/main/icon.png"
     }
   ],
   "Data": [
     {
       "id": 1,
       "name_category": "Tips",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "title": "How to read FX Leaders’ Forex Signals ",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "4C Trading Signal is one of the best signal providers in the market right now. The company boasts a team of professional analysts and industry experts with years of experience",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tips",
+      "title": "HLearn 2 Trade",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "Learn 2 Trade delivers forex trading signals, real-time market news, trade ideas, market analysis, trade recommendations and more. The platform supports traders worldwide with insights on major",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tips",
+      "title": "FOREX.com",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "Clients of FOREX.com, which is arguably the best forex broker based in the United States, have free access to the broke",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tips",
+      "title": "1000pip Builder",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "1000pip Builder is one of the best Forex signal providers available. They have a long history of providing high-quality Forex signals and have reliably",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide4.html"
+    },
+    {
+      "id": 1,
+      "name_category": "Tips",
+      "title": "How to read FX Leaders’ Forex Signals ",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "4C Trading Signal is one of the best signal providers in the market right now. The company boasts a team of professional analysts and industry experts with years of experience",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tips",
+      "title": "HLearn 2 Trade",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "Learn 2 Trade delivers forex trading signals, real-time market news, trade ideas, market analysis, trade recommendations and more. The platform supports traders worldwide with insights on major",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tips",
+      "title": "FOREX.com",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "Clients of FOREX.com, which is arguably the best forex broker based in the United States, have free access to the broke",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tips",
+      "title": "1000pip Builder",
+      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
+      "description": "1000pip Builder is one of the best Forex signal providers available. They have a long history of providing high-quality Forex signals and have reliably",
+      "link": "https://slepzeff.github.io/Forex-signal-guide-buy-sell/guide4.html"
     }
+    
   ]
 }
